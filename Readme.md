@@ -1,4 +1,7 @@
-How to run the online Birth Certificate System Project
+# Birth Certificate Management and Registration System
+
+## How to run the online Birth Certificate System Project
+
 1.Download the zip file
 
 2.Extract the file and copy obcs folder
