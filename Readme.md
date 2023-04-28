@@ -18,5 +18,5 @@ Username: admin
 Password: Test@123
 
 User Credential
-Username: 3636251425
-Password: Test@123
+Username: 9876543210
+Password: mainak
