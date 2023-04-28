@@ -4,7 +4,7 @@
 
 1.Download the zip file
 
-2.Extract the file and copy obcs folder
+2.Extract the folders.
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
